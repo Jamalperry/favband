@@ -1,0 +1,22 @@
+h4 {
+	text-align: center;
+	margin: 20px;
+}
+
+img {
+	width: 30%;
+	height: 30%;
+	border: 1px solid black;
+	margin: 10px;
+}
+
+.head {
+	color: normal;
+	text-align: center;
+	text-decoration: underline;
+}
+.sidebar {
+	float: right;
+	background-color: lightgrey;
+	width: 35%;
+	}
